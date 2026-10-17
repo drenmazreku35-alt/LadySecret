@@ -1,0 +1,10 @@
+{
+  "name": "LADY'S SECRET — Luxury Bags & Shoes",
+  "short_name": "LadySecret",
+  "description": "Çanta & këpucë luksoze për femra — Prizren. Porosit online.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0c0b09",
+  "theme_color": "#c6a15b",
+  "icons": []
+}
